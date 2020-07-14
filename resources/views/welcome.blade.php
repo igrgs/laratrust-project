@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
+    <title>Gebit Laratrust</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -91,7 +91,7 @@
             <div class="links">
                 <a href="{{ route('login') }}">Login</a>
                 <a href="{{ route('register') }}">Register</a>
-                <a href="https://github.com/imrgrgs/laravel" target="_blank">GitHub</a>
+                <a href="https://github.com/igrgs/laratrust-project" target="_blank">GitHub</a>
             </div>
         </div>
     </div>
